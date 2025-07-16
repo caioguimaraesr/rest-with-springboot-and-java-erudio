@@ -1,46 +1,46 @@
 # Spring Boot REST API 🚀
 
-Este repositório contém o desenvolvimento de uma **API RESTful** completa, criada durante o curso **"Spring Boot 2025 REST API's do 0 à AWS e GCP c Java e Docker"** da Udemy.
+This repository contains the development of a complete RESTful API, created during the Udemy course "Spring Boot 2025 REST APIs from Scratch to AWS and GCP with Java and Docker."
 
-## 📋 Sobre o Projeto
+## 📋 About the Project
 
-Uma API REST robusta e escalável desenvolvida com Spring Boot, seguindo as melhores práticas de desenvolvimento e arquitetura de software. O projeto abrange desde conceitos fundamentais até deploy em cloud providers como AWS e GCP.
+A robust and scalable REST API developed with Spring Boot, following software development and architecture best practices. The project covers everything from fundamental concepts to deployment on cloud providers like AWS and GCP.
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
-- **Java** - Linguagem principal
-- **Spring Boot** - Framework para desenvolvimento da API
-- **Spring Data JPA** - Persistência de dados
-- **Spring Security** - Segurança e autenticação
-- **MySQL/PostgreSQL** - Banco de dados relacional
-- **Docker** - Containerização
-- **Maven** - Gerenciamento de dependências
-- **JUnit** - Testes unitários
-- **Swagger/OpenAPI** - Documentação da API
+- **Java** - Core Language
+- **Spring Boot** - API Development Framework
+- **Spring Data JPA** - Data Persistence
+- **Spring Security** - Security and Authentication
+- **MySQL/PostgreSQL** - Relational Database
+- **Docker** - Containerization
+- **Maven** - Dependency Management
+- **JUnit** - Unit Testing
+- **Swagger/OpenAPI** - API Documentation
 
-## 🏗️ Arquitetura
+## 🏗️ Architecture
 
-A API segue os princípios da arquitetura REST e está estruturada em camadas:
+The API follows the principles of REST architecture and is structured in layers:
 
-- **Controller Layer** - Endpoints e manipulação de requisições HTTP
-- **Service Layer** - Lógica de negócio
-- **Repository Layer** - Acesso a dados
-- **Model Layer** - Entidades e DTOs
+- **Controller Layer** - Endpoints and HTTP request handling
+- **Service Layer** - Business Logic
+- **Repository Layer** - Data Access
+- **Model Layer** - Entities and DTOs
 
-## 🚀 Funcionalidades
+## 🚀 Features
 
-- ✅ CRUD completo
-- ✅ Autenticação e autorização
-- ✅ Validação de dados
-- ✅ Tratamento de exceções
-- ✅ Documentação automática com Swagger
-- ✅ Testes unitários e de integração
-- ✅ Containerização com Docker
-- ✅ Deploy em cloud (AWS/GCP)
+- ✅ Complete CRUD
+- ✅ Authentication and Authorization
+- ✅ Data Validation
+- ✅ Exception Handling
+- ✅ Automatic Documentation with Swagger
+- ✅ Unit and Integration Testing
+- ✅ Containerization with Docker
+- ✅ Cloud Deployment (AWS/GCP)
 
-## 📦 Como Executar
+## 📦 How to Run
 
-### Pré-requisitos
+### Prerequisites
 
 - Java 21 LTS
 - Maven 3.6+
