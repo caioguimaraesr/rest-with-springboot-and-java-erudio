@@ -13,3 +13,7 @@ spring:
       hibernate:
     show-sql: false
     open-in-view: false
+logging:
+  level:
+    # root: WARN # níveis de log globalmente
+    br.com.erudio: DEBUG # log em determinada pasta
